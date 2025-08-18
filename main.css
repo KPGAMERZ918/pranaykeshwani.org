@@ -3,26 +3,29 @@
     }
 
     body {
-        background-color: black;
+        background-color:rgb(12, 12, 41);
         color:whitesmoke;
         }
-
-a {
-    color: lightcoral;
-}   
-a:visited{
-    color:darkred;
+b {
+    color: antiquewhite;
 }
-a:hover{
-    color:blue;
+button {
+    color: rgb(227, 227, 227);
+    background-color: #ff7484d7;
 }
-a:active{
-    color:purple;
+link{
+    color: aqua;
+    
 }
-
-table,tr,th,td,caption{
-    border: 1px solid whitesmoke;
-    font-family: 'Courier New',Courier,monospace;
-    border-collapse: collapse;
-    padding: 0.5rem;
+a{
+    color: aqua;
+    font-weight: 700;
+    font-style:oblique;
+}
+p{
+    color: rgb(148, 251, 255);
+    font-weight: 800;
+}
+mark {
+    background-color: rgb(102, 102, 254);
 }
