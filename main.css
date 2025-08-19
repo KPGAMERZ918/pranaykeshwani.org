@@ -29,3 +29,19 @@ p{
 mark {
     background-color: rgb(102, 102, 254);
 }
+#navigator{
+    text-align: center;
+    font-weight: 900;
+    text-decoration: overline;
+}
+a{
+    text-decoration:none;
+}
+p{
+    font-family: cursive;
+}
+button{
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
